@@ -1,5 +1,5 @@
 ## Hi there 👋
-[![MasterHead](banner.png)]
+[![MasterHead](banner.png)](https://github.com/AV-006)
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y)
