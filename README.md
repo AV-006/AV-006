@@ -1,5 +1,6 @@
 ## Hi there 👋
-[![MasterHead](banner.png)](https://github.com/AV-006)
+<img align="right" alt="Coding" width="400" src="banner.png">
+
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y)
