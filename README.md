@@ -1,10 +1,10 @@
 ## Hi there 👋
 ![Header](./github-header-banner.png)
-<img align="right" alt="Coding" width="400" src="banner.png">
+
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y) <img align="right" alt="Coding" width="400" src="banner.png">
 <!--
 **AV-006/AV-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
