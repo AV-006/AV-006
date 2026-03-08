@@ -63,7 +63,7 @@
 <h2 align="center">Recently Played</h2>
 
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y" alt="Spotify Recently Played">   <img width="400" src="banner.png" alt="Coding Banner">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y" alt="Spotify Recently Played">   <p align="right"><img width="400" src="banner.png" alt="Coding Banner"></p>
 
 
 
