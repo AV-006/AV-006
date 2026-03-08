@@ -23,6 +23,7 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mysql.png" alt="MySQL" title="MySQL"/></code>
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" alt="Git" title="Git"/></code>
 </div>
+
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y) <img align="right" alt="Coding" width="400" src="banner.png">
 <!--
 **AV-006/AV-006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
