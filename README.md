@@ -24,8 +24,8 @@
 </div>
 
 
+<div align="center">![LeetCode Stats](https://leetcard.jacoblin.cool/arrrjunnn?theme=dark&font=IBM%20Plex%20Sans&ext=heatmap)</div>
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/arrrjunnn?theme=dark&font=IBM%20Plex%20Sans&ext=heatmap)
 
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31cbrk6cbttosla747dazj6yyp6y) <img align="right" alt="Coding" width="400" src="banner.png">
